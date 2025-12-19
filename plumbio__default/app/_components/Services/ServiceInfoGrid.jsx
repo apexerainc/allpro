@@ -24,3 +24,5 @@ const ServiceInfoGrid = ({ items, columns = 3, highlightItems = [] }) => {
 };
 
 export default ServiceInfoGrid;
+
+

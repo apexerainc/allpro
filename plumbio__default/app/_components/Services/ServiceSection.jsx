@@ -27,3 +27,5 @@ const ServiceSection = ({ title, subtitle, children, icon, variant = 'default' }
 };
 
 export default ServiceSection;
+
+
