@@ -1,0 +1,81 @@
+.typeCard {
+	background: var(--base-bg);
+	border-radius: 12px;
+	padding: 25px;
+	border: 2px solid transparent;
+	transition: all 0.3s ease;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	position: relative;
+	overflow: hidden;
+}
+
+.typeCard::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 4px;
+	height: 100%;
+	background: var(--base-color);
+	transform: scaleY(0);
+	transition: transform 0.3s ease;
+}
+
+.typeCard:hover {
+	border-color: var(--base-color);
+	box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+}
+
+.typeCard:hover::before {
+	transform: scaleY(1);
+}
+
+.typeCard__iconWrapper {
+	margin-bottom: 20px;
+}
+
+.typeCard__icon {
+	font-size: 40px;
+	color: var(--base-color);
+	line-height: 1;
+	display: inline-block;
+}
+
+.typeCard__icon i {
+	display: block;
+}
+
+.typeCard__content {
+	flex: 1;
+}
+
+.typeCard__title {
+	font-size: 18px;
+	font-weight: 700;
+	color: var(--base-color);
+	margin-bottom: 10px;
+	line-height: 1.3;
+}
+
+.typeCard__description {
+	color: #6c7176;
+	font-size: 14px;
+	line-height: 1.6;
+	margin: 0;
+}
+
+@media (max-width: 1024px) {
+	.typeCard {
+		padding: 20px;
+	}
+	
+	.typeCard__icon {
+		font-size: 36px;
+	}
+	
+	.typeCard__title {
+		font-size: 16px;
+	}
+}

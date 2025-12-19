@@ -1,0 +1,26 @@
+export const MainSliderData = [
+	{
+		id: 1,
+		layout:'type1',
+		bgimg_lg_jpg: '/images/main-slider/slide01__bg_lg.jpg',
+		bgimg_lg_webp: '/images/main-slider/slide01__bg_lg.webp',
+		bgimg_md_jpg: '/images/main-slider/slide01__bg_md.jpg',
+		bgimg_md_webp: '/images/main-slider/slide01__bg_md.webp',
+		bgimg_sm_jpg: '/images/main-slider/slide01__bg_sm.jpg',
+		bgimg_sm_webp: '/images/main-slider/slide01__bg_sm.webp',
+		title: `24/7 Emergency Water Damage Restoration`,
+		text: `When Disaster Strikes, We Respond Immediately. Professional 24/7 emergency water damage restoration services in Pinedale & Sublette County, WY. Fast response, expert technicians, and comprehensive restoration solutions.`,
+	},
+	{
+		id: 2,
+		layout:'type2',
+		bgimg_lg_jpg: '/images/main-slider/slide02__bg_lg.jpg',
+		bgimg_lg_webp: '/images/main-slider/slide02__bg_lg.webp',
+		bgimg_md_jpg: '/images/main-slider/slide02__bg_md.jpg',
+		bgimg_md_webp: '/images/main-slider/slide02__bg_md.webp',
+		bgimg_sm_jpg: '/images/main-slider/slide02__bg_sm.jpg',
+		bgimg_sm_webp: '/images/main-slider/slide02__bg_sm.webp',
+		title: `Emergency Water Damage Restoration | 24/7 Response`,
+		text: `Water damage, fire, mold, and storm restoration in Pinedale & Sublette County, WY. Certified technicians with modern equipment. Direct insurance billing available. Call now for immediate emergency response!`,
+	},
+];

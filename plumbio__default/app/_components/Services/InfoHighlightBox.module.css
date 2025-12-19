@@ -1,0 +1,138 @@
+.highlightBox {
+	border-radius: 12px;
+	padding: 40px;
+	margin-bottom: 40px;
+	position: relative;
+	overflow: hidden;
+}
+
+.highlightBox__header {
+	display: flex;
+	align-items: center;
+	gap: 20px;
+	margin-bottom: 25px;
+	padding-bottom: 20px;
+	border-bottom: 2px solid rgba(0, 0, 0, 0.08);
+}
+
+.highlightBox__icon {
+	font-size: 42px;
+	color: var(--base-color2);
+	flex-shrink: 0;
+}
+
+.highlightBox__title {
+	font-family: var(--base-font2);
+	color: var(--base-color);
+	font-size: 26px;
+	font-weight: 800;
+	margin: 0;
+	line-height: 1.3;
+}
+
+.highlightBox__content {
+	color: #6c7176;
+	line-height: 1.8;
+}
+
+/* Variant: Success */
+.highlightBox__success {
+	background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+	border-left: 4px solid #0ea5e9;
+}
+
+.highlightBox__success .highlightBox__icon {
+	color: #0ea5e9;
+}
+
+.highlightBox__success .highlightBox__title {
+	color: #0369a1;
+}
+
+.highlightBox__success .highlightBox__header {
+	border-bottom-color: rgba(14, 165, 233, 0.2);
+}
+
+/* Variant: Highlight */
+.highlightBox__highlight {
+	background: linear-gradient(135deg, var(--base-color) 0%, var(--base-color2) 100%);
+	color: #ffffff;
+}
+
+.highlightBox__highlight .highlightBox__icon {
+	color: #ffffff;
+}
+
+.highlightBox__highlight .highlightBox__title {
+	color: #ffffff;
+}
+
+.highlightBox__highlight .highlightBox__content {
+	color: rgba(255, 255, 255, 0.95);
+}
+
+.highlightBox__highlight .highlightBox__header {
+	border-bottom-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Variant: Warning */
+.highlightBox__warning {
+	background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+	border-left: 4px solid #f59e0b;
+}
+
+.highlightBox__warning .highlightBox__icon {
+	color: #f59e0b;
+}
+
+.highlightBox__warning .highlightBox__title {
+	color: #d97706;
+}
+
+.highlightBox__warning .highlightBox__header {
+	border-bottom-color: rgba(245, 158, 11, 0.2);
+}
+
+/* Variant: Info */
+.highlightBox__info {
+	background: linear-gradient(135deg, #f3e8ff 0%, #e9d5ff 100%);
+	border-left: 4px solid #a855f7;
+}
+
+.highlightBox__info .highlightBox__icon {
+	color: #a855f7;
+}
+
+.highlightBox__info .highlightBox__title {
+	color: #7c3aed;
+}
+
+.highlightBox__info .highlightBox__header {
+	border-bottom-color: rgba(168, 85, 247, 0.2);
+}
+
+/* Variant: Default */
+.highlightBox__default {
+	background: var(--base-bg);
+	border: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+@media (max-width: 767.98px) {
+	.highlightBox {
+		padding: 30px 20px;
+	}
+
+	.highlightBox__header {
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 15px;
+	}
+
+	.highlightBox__icon {
+		font-size: 36px;
+	}
+
+	.highlightBox__title {
+		font-size: 22px;
+	}
+}

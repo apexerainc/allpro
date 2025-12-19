@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Home",
+        "path": "/"
+    },
+    {
+        "title": "Services",
+        "path": "/services",
+        "childrens": [
+            {
+                "title": "Water Damage Restoration",
+                "path": "/services/water-damage-restoration"
+            },
+            {
+                "title": "Fire & Smoke Damage",
+                "path": "/services/fire-smoke-damage"
+            },
+            {
+                "title": "Mold Remediation",
+                "path": "/services/mold-remediation"
+            },
+            {
+                "title": "Storm Damage",
+                "path": "/services/storm-damage"
+            },
+            {
+                "title": "Emergency Services",
+                "path": "/services/emergency-services"
+            }
+        ]
+    },
+    {
+        "title": "About Us",
+        "path": "/about"
+    },
+    {
+        "title": "Service Area",
+        "path": "/service-area"
+    },
+    {
+        "title": "Contact",
+        "path": "/contact-us"
+    }
+]
