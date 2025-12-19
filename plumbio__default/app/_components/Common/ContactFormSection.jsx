@@ -18,7 +18,7 @@ const ContactFormSection = ({ title = "Get in Touch", subtitle = "contact us" })
 						</strong>
 						<p className="mb-[20px]">
 							Need immediate assistance? Call us 24/7 for emergency restoration services. For non-emergency inquiries, 
-							estimates, or questions, fill out the form and we'll respond promptly.
+							estimates, or questions, fill out the form and we&apos;ll respond promptly.
 						</p>
 						<div className="mb-[30px]">
 							<h4 className="ttsubtitle_sm mb-[15px]">Contact Information</h4>

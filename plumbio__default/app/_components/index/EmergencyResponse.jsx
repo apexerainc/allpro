@@ -23,7 +23,7 @@ const EmergencyResponse = () => {
 							When Disaster Strikes, We Respond Immediately
 						</h2>
 						<p className="text-lg mb-[30px] max-w-[700px] mx-auto opacity-90">
-							Don't wait for the damage to worsen. Our emergency restoration team is standing by 24/7 
+							Don&apos;t wait for the damage to worsen. Our emergency restoration team is standing by 24/7 
 							to help you when you need it most.
 						</p>
 						<div className="flex flex-wrap justify-center gap-[20px]">

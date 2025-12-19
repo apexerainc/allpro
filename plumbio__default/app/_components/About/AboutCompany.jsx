@@ -46,7 +46,7 @@ const AboutCompany = () => {
 								Restoration Wranglers is the only restoration company serving Pinedale & Sublette County, Wyoming, providing professional water damage, fire damage, mold remediation, and storm damage restoration services.
 							</strong>
 							<p>
-								As a local, family-owned business, we understand the unique challenges of Wyoming weather and building structures. With over 15 years of experience, our certified technicians provide 24/7 emergency restoration services with a 60-minute response time guarantee. We're committed to helping our neighbors recover quickly from disasters, working directly with insurance companies to make the process as smooth as possible.
+								As a local, family-owned business, we understand the unique challenges of Wyoming weather and building structures. With over 15 years of experience, our certified technicians provide 24/7 emergency restoration services with a 60-minute response time guarantee. We&apos;re committed to helping our neighbors recover quickly from disasters, working directly with insurance companies to make the process as smooth as possible.
 							</p>
 							<p>
 								Our team is IICRC-certified and uses state-of-the-art equipment to restore your property to pre-loss condition. We take pride in being the trusted restoration experts for homeowners and businesses throughout Pinedale, Big Piney, Marbleton, and all of Sublette County.

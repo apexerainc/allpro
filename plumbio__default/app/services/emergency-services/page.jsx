@@ -123,7 +123,7 @@ export default function EmergencyServices() {
 									/>
 								</div>
 								<p className="mb-[20px]">
-									Disasters don't wait for business hours. When disaster strikes your property in Pinedale & Sublette County, 
+									Disasters don&apos;t wait for business hours. When disaster strikes your property in Pinedale & Sublette County, 
 									you need immediate professional help. Restoration Wranglers provides 24/7 emergency restoration services 
 									with a 60-minute response time guarantee.
 								</p>
@@ -193,7 +193,7 @@ export default function EmergencyServices() {
 										/>
 									</div>
 									<p className="mt-[25px] mb-0 text-center text-[#6c7176]">
-										When in doubt, call us. We can assess the situation and determine if immediate emergency response is needed. It's better to call early than wait for damage to worsen.
+										When in doubt, call us. We can assess the situation and determine if immediate emergency response is needed. It&apos;s better to call early than wait for damage to worsen.
 									</p>
 								</ServiceSection>
 
@@ -315,19 +315,19 @@ export default function EmergencyServices() {
 									<div className="grid md-max:gap-[15px] md:gap-[20px] md:grid-cols-2">
 										<div>
 											<ul className="list__type1">
-												<li><strong>Water Damage:</strong> Shut off water source if safe to do so. Remove valuable items from affected areas. Don't use electrical appliances near water. Document damage with photos.</li>
-												<li><strong>Fire Damage:</strong> Don't enter the property until cleared safe by authorities. Don't attempt to clean smoke damage. Secure the property if possible. Document damage from outside.</li>
+												<li><strong>Water Damage:</strong> Shut off water source if safe to do so. Remove valuable items from affected areas. Don&apos;t use electrical appliances near water. Document damage with photos.</li>
+												<li><strong>Fire Damage:</strong> Don&apos;t enter the property until cleared safe by authorities. Don&apos;t attempt to clean smoke damage. Secure the property if possible. Document damage from outside.</li>
 											</ul>
 										</div>
 										<div>
 											<ul className="list__type1">
-												<li><strong>Storm Damage:</strong> Avoid damaged areas, especially if structural damage is visible. Don't attempt temporary repairs. Document damage with photos if safe. Stay away from downed power lines.</li>
-												<li><strong>Sewage Backups:</strong> Avoid contact with contaminated water. Don't use plumbing until cleared. Keep children and pets away. Ventilate the area if safe.</li>
+												<li><strong>Storm Damage:</strong> Avoid damaged areas, especially if structural damage is visible. Don&apos;t attempt temporary repairs. Document damage with photos if safe. Stay away from downed power lines.</li>
+												<li><strong>Sewage Backups:</strong> Avoid contact with contaminated water. Don&apos;t use plumbing until cleared. Keep children and pets away. Ventilate the area if safe.</li>
 											</ul>
 										</div>
 									</div>
 									<p className="mt-[20px] mb-0 text-center">
-										<strong>General:</strong> Ensure personal safety first. Call us immediately. Don't attempt DIY repairs that could worsen damage. Keep our number accessible: <a href="tel:3073237777" className="base__color font-bold">307-323-7777</a>.
+										<strong>General:</strong> Ensure personal safety first. Call us immediately. Don&apos;t attempt DIY repairs that could worsen damage. Keep our number accessible: <a href="tel:3073237777" className="base__color font-bold">307-323-7777</a>.
 									</p>
 								</InfoHighlightBox>
 

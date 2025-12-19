@@ -31,7 +31,7 @@ export default function ContactUs() {
                             </strong>
                             <p className="mb-[20px]">
                                 Need immediate assistance? Call us 24/7 for emergency restoration services. For non-emergency inquiries, 
-                                estimates, or questions, fill out the form and we'll respond promptly.
+                                estimates, or questions, fill out the form and we&apos;ll respond promptly.
                             </p>
                             <div className="mb-[30px]">
                                 <h4 className="ttsubtitle_sm mb-[15px]">Contact Information</h4>
@@ -86,7 +86,7 @@ export default function ContactUs() {
                         <h3 className="ttsubtitle_sm mb-[20px] text-center">Find Us</h3>
                         <div className="bg-base__bg p-[40px] rounded-lg text-center">
                             <p className="text-sm text-[#6c7176] mb-[20px]">
-                                <em>Google Map integration coming soon. We're located in Pinedale, Wyoming, serving all of Sublette County.</em>
+                                <em>Google Map integration coming soon. We&apos;re located in Pinedale, Wyoming, serving all of Sublette County.</em>
                             </p>
                             <p className="text-sm">
                                 For directions or to schedule an on-site visit, please call us at{' '}

@@ -69,7 +69,7 @@ export default function ServiceArea() {
 								<div className="bg-white p-[30px] rounded-lg">
 									<h4 className="ttsubtitle_sm mb-[15px]">Need Service?</h4>
 									<p className="text-sm text-[#6c7176] mb-[20px]">
-										We're available 24/7 for emergency restoration services throughout our service area.
+										We&apos;re available 24/7 for emergency restoration services throughout our service area.
 									</p>
 									<a href="tel:3073237777" className="btn btn__invert w-full text-center block">
 										Call 307-323-7777
